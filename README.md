@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Rajendra Gupta</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCSd6NOSnkcFNrElVPChTqImPiAEd51Bcf6A")
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCSd6NOSnkcFNrElVPChTqImPiAEd51Bcf6A"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek1141781&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek1141781" /> </p>
