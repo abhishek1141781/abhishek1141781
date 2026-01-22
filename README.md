@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Rajendra Gupta</h1>
 <h3 align="center">A passionate Backend developer from Mumbai</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif"/>
 <!-- <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCSd6NOSnkcFNrElVPChTqImPiAEd51Bcf6A"/> -->
 <!-- <img
   align="right"
@@ -8,12 +9,32 @@
   src="https://i.pinimg.com/originals/11/c2/38/11c238c51c94fbf822ae0fc6acc88c58.gif"
 /> -->
 
-<img
+<!-- <img
   align="right"
   alt="Animated green matrix-style code raining down"
   width="380"
   src="https://i.pinimg.com/originals/11/c2/38/11c238c51c94fbf822ae0fc6acc88c58.gif"
-/>
+/> -->
+
+<!-- <p align="center">
+  <img
+    src="https://i.pinimg.com/originals/11/c2/38/11c238c51c94fbf822ae0fc6acc88c58.gif"
+    width="600"
+    alt="Matrix green code animation"
+  />
+</p> -->
+
+<!-- <p align="right">
+  <img
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+    width="520"
+    alt="Developer coding animation"
+  />
+</p> -->
+
+<!-- <p align="right">
+  <img src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" width="500" />
+</p> -->
 
 
 
