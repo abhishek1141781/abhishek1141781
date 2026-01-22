@@ -7,21 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek1141781" alt="abhishek1141781" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abhishek_1141" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek_1141?logo=twitter&style=for-the-badge" alt="abhishek_1141" /></a> </p>
+- 🔭 I’m currently working on **Expense Tracker Mobile App**
 
-- 🔭 I’m currently working on **NextJs Portfolio**
+- 🌱 I’m currently learning **React Native**
 
-- 🌱 I’m currently learning **DRF, React Native, MERN**
+- 💬 Ask me about **Java, Springboot, ReactJs**
 
-- 💬 Ask me about **Java, Spring, MERN**
-
-- 📫 How to reach me **abhishek1141781@gmail.com**
-
-- ⚡ Fun fact **I have superpowers**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me **abhishekgupta.webdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
