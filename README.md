@@ -46,7 +46,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Java, Springboot, ReactJs**
+- 💬 Ask me about **Java, NodeJs, ReactJs**
 
 - 📫 How to reach me **abhishekgupta.webdev@gmail.com**
 
